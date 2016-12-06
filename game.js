@@ -8,7 +8,7 @@ KEY_CODES = {
   65: 'left',
   87: 'up',
   68: 'right',
-  83: 'down',
+  82: 'down',
   70: 'f',
   71: 'g',
   72: 'h',
